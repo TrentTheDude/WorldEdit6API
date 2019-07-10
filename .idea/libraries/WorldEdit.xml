@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="WorldEdit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../1.8 Server/plugins/WorldEdit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../1.8 Server/plugins/worldguard-6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

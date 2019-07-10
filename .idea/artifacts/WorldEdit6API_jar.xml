@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WorldEdit6API:jar">
+    <output-path>$PROJECT_DIR$/../../Libs</output-path>
+    <root id="archive" name="WorldEdit6API.jar">
+      <element id="module-output" name="WorldEdit6API" />
+    </root>
+  </artifact>
+</component>
