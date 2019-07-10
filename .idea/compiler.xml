@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="WorldEdit6API" target="1.5" />
+      <module name="WorldEdit6API" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
