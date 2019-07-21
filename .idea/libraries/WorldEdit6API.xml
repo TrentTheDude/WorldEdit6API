@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="WorldEdit6API">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Libs/WorldEdit6API.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Libs/WorldEdit7API.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

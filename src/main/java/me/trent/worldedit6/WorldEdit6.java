@@ -29,10 +29,8 @@ public class WorldEdit6 {
         else return null;
     }
 
-    public static void paste(File file, Location pasteLoc) {
+    public static void paste(File dir, Location pasteLoc) {
         try {
-            File dir = file;
-
             EditSession editSession = new EditSession(new BukkitWorld(pasteLoc.getWorld()), 999999999);
             editSession.enableQueue();
 
@@ -47,5 +45,4 @@ public class WorldEdit6 {
             ex.printStackTrace();
         }
     }
-
 }
